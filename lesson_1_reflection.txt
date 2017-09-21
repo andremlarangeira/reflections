@@ -1,0 +1,30 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+mostrando algum erro de digitação ou alguma linha modificada no arquivo
+
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+voce pode facilmente voltar um arquivo para uma versão anterior onde tudo esteja funcionando
+ao invés de perder tempo tentanto achar um bug e/ou refazer todo o trabalho
+
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git,
+v. o salvamento automático de versões, como no Google Docs?
+
+consigo dar um controle lógico em cada commit, porém, tenho que lembrar sempre de realizar os commits
+
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit,
+enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+porque em programação é normal um arquivo estar diretamente relacionado a outros arquivos, o que não é tão
+frequente no google docs
+
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+mantendo uma versão estável do código o qual eu posso voltar a qualquer momento
+
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+para criar um controle de versão para meus códigos
