@@ -1,0 +1,18 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+O git cria um arquivo para rastrear meus arquivos
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+a area de preparação mantem a lista dos arquvios que eu quero que entrem no commit atual, o diretorio de trabalho
+mostra todos os arquivos do diretorio que estou trabalhando e o repositorio tem os arquivos que já foram dado commit.
+A area de preparação nos dá um controle melhor do que queremos enviar no commit atual
+
+
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+adicionando somente os arquivos que fazem parte dessa alteração
+
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+q
+
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
